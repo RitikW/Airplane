@@ -13,6 +13,6 @@ public class Manager : MonoBehaviour
     public void button2()
     {
         go2.SetActive(true);
-        go1.SetActive(false);
+        
     }
 }
